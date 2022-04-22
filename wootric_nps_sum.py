@@ -55,47 +55,6 @@ def sum_avg(surveys, firm_ls, survey_ls, leng_ls):
 
 
 
-#def struct_survey_data(body, scores):
-    #pass
-    
-
-
-
-
-
-
-
-
-
-
-"""
-   if sum_scores <= 0:
-                if len_scores > 0:
-                    row[9] = new_n
-                    row[10] = sum_scores / len_scores
-                    avg_score = sum_scores / int(len_scores)
-                    print(firm_name, sum_scores / len_scores)
-
-            else:
-                row[9] = new_n
-"""
-
-
-
-
-
-
-"""
-    for firm_name, avg_score in dict.items(prac):
-         print(firm_name, avg_score)
-
-    for j in range(len(prac)):
-        for firm_name, score in dict.items(prac):
-            if not i or not row:
-                continue
-            row[9] = firm_name
-"""         
-    
 
 
 
